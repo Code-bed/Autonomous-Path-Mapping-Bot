@@ -1,2 +1,2 @@
-# Autonomous-Path-Mapping-Bot
-Build an autonomous path mapping robot for solving problem statement of Technex'20, IIT BHU
+# Autonomous-Path-Mapping-Robot
+Made a robot to solve the problem statement of Pixelate 20', Technex, Technical Fest of IIT (BHU) Varansi.
